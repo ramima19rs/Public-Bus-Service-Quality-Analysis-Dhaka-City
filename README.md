@@ -26,3 +26,5 @@ Recommendations were generated for improvements in safety protocols and passenge
 
 Python: Pandas for data processing, SciPy for statistical analysis, Matplotlib/Seaborn for data visualization.
 Google Colab: For cloud-based data analysis and visualization.
+
+[Public Bus Service Quality_PowerBI_Dashboard.pdf](https://github.com/user-attachments/files/24772003/Public.Bus.Service.Quality_PowerBI_Dashboard.pdf)
